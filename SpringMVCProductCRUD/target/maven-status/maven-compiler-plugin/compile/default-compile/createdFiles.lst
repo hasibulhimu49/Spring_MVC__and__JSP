@@ -1,0 +1,3 @@
+product\dao\Product.class
+product\crud\MainController.class
+product\dao\ProductDaO.class

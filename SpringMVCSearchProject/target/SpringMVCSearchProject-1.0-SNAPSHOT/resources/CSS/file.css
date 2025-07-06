@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #d0eaff, #e2f0cb);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.upload-wrapper {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.upload-card {
+    max-width: 500px;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+}
+
+.upload-card h1 {
+    font-size: 2rem;
+    color: #007BFF;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
